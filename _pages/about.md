@@ -7,19 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p align="right">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
 ## 🙍‍♂️About Me
 I am a passionate and dedicated software engineering student in my final year of bachelor's studies. My primary interest lies in the exciting field of machine learning. I enjoy tackling complex problems and leveraging data-driven solutions to make a positive impact.
-<p align="right">
-<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
+
 ## 📖Education
 - **Bachelor of Science in Software Engineering**
   - *Gandaki college of science and engineering*
   - *Expected Graduation: May 2024*
 
-## Projects
+## 💻Projects
 
 ### Sentiment Analysis with Natural Language Processing (NLP)
 - Developed a sentiment analysis model using NLP techniques.
