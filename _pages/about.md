@@ -1,20 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋Hello there, I'm Suman"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# John Doe's Portfolio
 
-## About Me
+
+## 🙍‍♂️About Me
 I am a passionate and dedicated software engineering student in my final year of bachelor's studies. My primary interest lies in the exciting field of machine learning. I enjoy tackling complex problems and leveraging data-driven solutions to make a positive impact.
-
-## Education
+<p align="right">
+<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+## 📖Education
 - **Bachelor of Science in Software Engineering**
-  - *Your University Name*
+  - *Gandaki college of science and engineering*
   - *Expected Graduation: May 2024*
 
 ## Projects
