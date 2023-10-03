@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-# Explore My Project Portfolio. 
-
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/thesuman74/AI_with_python">
 <!--         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image 1" width="400" height="100%"> -->
@@ -18,6 +15,8 @@ redirect_from:
         <img src="https://thesuman74.github.io/portfolio/images/programmer.gif" alt="Image 2" width="800" height="100%">
     </a>
 </div>
+
+<!-- # Explore My Project Portfolio.  -->
 
 # Linear Regression 
 <p align="left">

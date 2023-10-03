@@ -85,24 +85,24 @@ author:
   bio              : "Intrested in Learning and creating ML and AI projects"
   location         : "Pokhara, Nepal"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :  "yes.u.man7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "mesumanadhikari"
   foursquare       :
   github           : "thesuman74"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "sumann_adhikari_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "in/suman-adhikari-/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
