@@ -50,6 +50,6 @@ I am a passionate and dedicated software engineering student in my final year of
   - Mastered Python programming and its applications in data science and machine learning.
 
 ## Contact
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/johndoe) or email at johndoe@email.com. I am open to collaboration and always eager to learn and contribute to exciting machine learning projects.
+Feel free to connect with contacts above . I am open to collaboration and always eager to learn and contribute to exciting machine learning projects.
 
 Let's shape the future together!

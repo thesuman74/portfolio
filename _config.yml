@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Suman Portfolio"
+title                    : "Suman's Homepage"
 title_separator          : "-"
 name                     : &name "Suman Adhikari "
 description              : &description "personal description"
