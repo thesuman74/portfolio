@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
 <!--         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image 1" width="400" height="100%"> -->
     </a>
     <a href="https://example.com/link/to/destination2">
-        <img src="https://thesuman74.github.io/portfolio/images/programmer.gif" alt="Image 2" width="1000" height="100%">
+        <img src="https://thesuman74.github.io/portfolio/images/programmer.gif" alt="Image 2" width="800" height="100%">
     </a>
 </div>
 
@@ -35,7 +35,7 @@ redirect_from:
 
 # NAive Bias algorithms 
 <p align="right">
-<a href="https://thesuman74.github.io/portfolio/"><img align="left" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/profile.png"></a>
+<a href="https://thesuman74.github.io/portfolio/"><img align="left" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/coder.png"></a>
 </p>
 ## I'm a Software Engineering Student .
 
