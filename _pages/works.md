@@ -11,7 +11,7 @@ redirect_from:
     <a href="https://github.com/thesuman74/AI_with_python">
 <!--         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image 1" width="400" height="100%"> -->
     </a>
-    <a href="https://example.com/link/to/destination2">
+    <a href="https://thesuman74.github.io/portfolio/">
         <img src="https://thesuman74.github.io/portfolio/images/programmer.gif" alt="Image 2" width="800" height="100%">
     </a>
 </div>
@@ -20,7 +20,7 @@ redirect_from:
 
 # Linear Regression 
 <p align="left">
-<a href="https://thesuman74.github.io/portfolio/"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/linear_regression.gif"></a>
+<a href="https://github.com/thesuman74/AI_with_python/tree/master/linear_regression"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/linear_regression.gif"></a>
 </p>
 
 - **Predictive Power**: Helps in predicting future outcomes based on historical data.
