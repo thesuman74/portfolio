@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
     # url: /cv/
-    url: files/Suman_CV.pdf
+    url: /files/Suman_CV.pdf
 
   # - title: "Works"
   #   url: /works/
