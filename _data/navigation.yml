@@ -16,8 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    # url: /cv/
-    url: /files/Suman_CV.pdf
+    url: /cv/
+    # url: /files/Suman_CV.pdf
 
   # - title: "Works"
   #   url: /works/
