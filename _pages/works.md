@@ -48,14 +48,17 @@ redirect_from:
 - ⚡ Fun fact **I am addicted to coding and songs .**
 
 # Web Development Projects 
-## Legal Path
+# Legal Path
+<p align="left">
+  <a href="https://thesuman74.github.io/portfolio/">
+  <img align="left" alt="coding" width="450" src="https://thesuman74.github.io/portfolio/images/legalpath.gif" style="padding: 10px;">
+</a>
+</p>
 
-https://github.com/thesuman74/portfolio/assets/58351346/8a46e323-c963-4707-b55c-d58bc642be1c
+<p align="right" >
 
 - **Overview:** This is a fully customizable website with a theme for a judicial website and has a proper admin panel. It was built Utilizing HTML, CSS, JavaScript, PHP, Bootstrap, and MySQL for the database. 
-
 -  **Admin Panel: 🙎‍♂️** Admin can Create, Edit, Update, and Delete different Users, posts, headings, images, teams, and many  more.
-
 - **What I learned:**
   - HTML, CSS, Javascript, PHP, Mysql, Github
   - Managing login with sessions
@@ -64,13 +67,15 @@ https://github.com/thesuman74/portfolio/assets/58351346/8a46e323-c963-4707-b55c-
   - User Experience
   - Better Bootstrap Utilization
   - GitHub basics and more
-  
+</p>
 
-## Question Bank 
+# Question Bank 
+<p align="left">
+  <a href="https://thesuman74.github.io/portfolio/">
+  <img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/questionbank.gif" style="margin: 20px;">
+</a>
 
-https://github.com/thesuman74/portfolio/assets/58351346/3e8046d4-1f1a-4077-a36a-7f2abc651c2b
 
-#### Question Bank 
 - **Educational Resource Hub:** Question Bank, a web project designed to facilitate learning. This platform is dedicated to providing easy access to educational notes, books and old questions from exams.
 - **For students: 🧑‍🎓** It was built especially for the students to make them familiar with different exam questions from  different subjects in one place.
   
@@ -95,16 +100,15 @@ https://github.com/thesuman74/portfolio/assets/58351346/3e8046d4-1f1a-4077-a36a-
 
 
 ## Portfolio website
-https://github.com/thesuman74/portfolio/assets/58351346/66cfd49b-f6d0-416a-8e0d-47ca9c23fd83
-
-## Portfolio Website .
+<p align="right">
+  <a href="https://thesuman74.github.io/portfolio/">
+  <img align="left" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/portfolio.gif" style="padding: 10px;">
+</a>
 
 - **My Learning Journey**: Welcome to my portfolio website, a significant milestone in my journey of web development. It's the very first website I created using HTML, CSS, and JavaScript.
 - **Showcasing Progress**: Here, I've compiled a collection of minor projects that I developed while learning the ins and outs of HTML, CSS, and JavaScript. Each project represents a step forward in my coding skills.
 - **A Starting Point:** While this website may not be the pinnacle of web design, it symbolizes the beginning of my learning adventure. 
-
 - **Take a Look:** To check out my portfolio website, [here](https://web2portfolio.netlify.com/) .As my First project, it may have some limitations and lack certain feature  
-
 - **What I learned:**
 - Html, CSS, javascript, 
 
