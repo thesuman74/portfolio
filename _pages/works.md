@@ -47,6 +47,69 @@ redirect_from:
 
 - ⚡ Fun fact **I am addicted to coding and songs .**
 
+# Web Development Projects 
+## Legal Path
+
+https://github.com/thesuman74/portfolio/assets/58351346/8a46e323-c963-4707-b55c-d58bc642be1c
+
+- **Overview:** This is a fully customizable website with a theme for a judicial website and has a proper admin panel. It was built Utilizing HTML, CSS, JavaScript, PHP, Bootstrap, and MySQL for the database. 
+
+-  **Admin Panel: 🙎‍♂️** Admin can Create, Edit, Update, and Delete different Users, posts, headings, images, teams, and many  more.
+
+- **What I learned:**
+  - HTML, CSS, Javascript, PHP, Mysql, Github
+  - Managing login with sessions
+  - Responsive Design
+  - Editing details for specific IDs
+  - User Experience
+  - Better Bootstrap Utilization
+  - GitHub basics and more
+  
+
+## Question Bank 
+
+https://github.com/thesuman74/portfolio/assets/58351346/3e8046d4-1f1a-4077-a36a-7f2abc651c2b
+
+#### Question Bank 
+- **Educational Resource Hub:** Question Bank, a web project designed to facilitate learning. This platform is dedicated to providing easy access to educational notes, books and old questions from exams.
+- **For students: 🧑‍🎓** It was built especially for the students to make them familiar with different exam questions from  different subjects in one place.
+  
+- **Seamless PDF Viewing:🕶️** Utilizing HTML, CSS, JavaScript,PHP Bootstrap, MySQL I created a user-friendly website. You can effortlessly read and navigate through PDF documents right here with or without downloading.
+  
+-  **Admin Panel: 🙎‍♂️** Admin can Create, Edit, Update, and Delete different courses and subjects for different faculty and subjects are  displayed accordingly with the selected courses. For eg While inserting data If a software engineering course is selected subjects related to only subject engineering will be displayed.
+
+- **What I learned:**
+  - HTML, css, javascript, Php, Mysql, Github
+  - Responsive Design
+  - PDF Integration and embeding
+  - User Experience 
+  - Bootstrap Utilization
+  - GitHub basics and more
+ 
+
+## Micro website 
+
+![image](https://github.com/thesuman74/portfolio/assets/58351346/dd70f3de-843b-497d-bd18-b54ab3870a0b)
+
+"After navigating the challenging journey of CSS for styling, I discovered Bootstrap, which allowed me to construct [this](https://microwebsite.netlify.app/#home) website in just a few hours. This experience shows how technology can significantly improve the development process."
+
+
+## Portfolio website
+https://github.com/thesuman74/portfolio/assets/58351346/66cfd49b-f6d0-416a-8e0d-47ca9c23fd83
+
+## Portfolio Website .
+
+- **My Learning Journey**: Welcome to my portfolio website, a significant milestone in my journey of web development. It's the very first website I created using HTML, CSS, and JavaScript.
+- **Showcasing Progress**: Here, I've compiled a collection of minor projects that I developed while learning the ins and outs of HTML, CSS, and JavaScript. Each project represents a step forward in my coding skills.
+- **A Starting Point:** While this website may not be the pinnacle of web design, it symbolizes the beginning of my learning adventure. 
+
+- **Take a Look:** To check out my portfolio website, [here](https://web2portfolio.netlify.com/) .As my First project, it may have some limitations and lack certain feature  
+
+- **What I learned:**
+- Html, CSS, javascript, 
+
+
+
 
 # stay tune for more 
 
