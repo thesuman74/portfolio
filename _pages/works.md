@@ -52,7 +52,7 @@ redirect_from:
 
 ## Voter -Flutter App
 <p align="left">
-<a href="https://github.com/thesuman74/Voter"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/simple.gif"></a>
+<a href="https://github.com/thesuman74/Voter"><img align="right" alt="coding" width="400" height="400" src="https://thesuman74.github.io/portfolio/images/simple.gif"></a>
 </p>
 
 - **Overview**:
