@@ -48,13 +48,34 @@ redirect_from:
 - ⚡ Fun fact **I am addicted to coding and songs .**
 
 # Web Development
+
+## Punotes 
+<p align="left">
+<a href="https://thesuman74.github.io/portfolio/"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/punotes.gif"></a>
+</p>
+
+- **Overview**: This is a complete website built with WordPress where we can upload notes, PDFs, blogs, questions, and many more. I built this to learn working with WordPress and help other students to access notes, pdf and tools that can be used in their studies. 
+- **Admin Panel: 🙎‍♂️**  Admin can use all the features of WordPress.
+- **Take a Look:** Check this , [here](https://pusolutions.epizy.com/) . 
+  
+- **What I learned:**
+  - WordPress
+  - Managing Analytics and SEO 
+  - Working with different plugins
+  - Importance of BackUp
+  - Working with Templates, Libraries,
+  - Hosting websites
+  - Managing Website Deployment, DNS, SSL, and many more
+
+    
+
 ## Legal path
 <p align="left">
 <a href="https://thesuman74.github.io/portfolio/"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/legalpath.gif"></a>
 </p>
 
 - **Overview**: This is a fully customizable website with a theme for a judicial website and has a proper admin panel. It was built Utilizing HTML, CSS, JavaScript, PHP, Bootstrap, and MySQL for the database.
-- **Admin Panel: 🙎‍♂️**  Admin can Create, Edit, Update, and Delete different Users,Images,Headings and many more.
+- **Admin Panel: 🙎‍♂️**  Admin can Create, Edit, Update, and Delete different Users, Images, Headings and many more.
 - **What I learned:**
   - HTML, CSS, Javascript, PHP, Mysql, Github
   - Managing sessions
@@ -73,6 +94,7 @@ redirect_from:
 
 - **Overview:** Question Bank, a web project designed to facilitate learning. This platform is dedicated to providing easy access to educational notes, books and old questions from exams. 
 -  **Admin Panel: 🙎‍♂️** Admin can Create, Edit, Update, and Delete different courses and subjects for different faculty, and subjects are  displayed accordingly with the selected courses. For eg While inserting data If a software engineering course is selected subjects related to only subject engineering will be displayed.
+- **Take a Look:** Check this repo, [here](https://github.com/thesuman74/Question_bank) . 
 
 - **What I learned:**
   - HTML, CSS, javascript, Php, Mysql, Github
@@ -81,7 +103,6 @@ redirect_from:
   - User Experience 
   - Bootstrap Utilization
   - GitHub basics and more
-  
 
 ## Micro website 
 <p >
