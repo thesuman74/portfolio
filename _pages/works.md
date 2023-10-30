@@ -47,11 +47,32 @@ redirect_from:
 
 - ⚡ Fun fact **I am addicted to coding and songs .**
 
+
+# App Development
+
+## Voter -Flutter App
+<p align="left">
+<a href="https://github.com/thesuman74/Voter"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/simple.gif"></a>
+</p>
+
+- **Overview**:
+- This is a Voting app built with Flutter built with an objective to provide a secure and efficient way to perform voting based on QR code with the help of ID cards by using a mobile application. where admin can create polls, Add candidates, Edit candidate's Details, see total votes and users can simply vote with QR authentication.
+-  I built this to learn working with Flutter and create voting sytem where I use College Id for QR authentication
+
+- **Admin Panel: 🙎‍♂️**  Admin can create polls, Add candidates, Edit candidate's Details, see total votes, and so on. 
+- **Take a Look:** Check this , [here](https://github.com/thesuman74/Voter) . 
+  
+- **What I learned:**
+  - Flutter, Dart , MySql 
+  - Creating a simple API 
+  - Working with Packages,
+  - GitHub Collaboration and more
+
 # Web Development
 
 ## Punotes 
 <p align="left">
-<a href="https://thesuman74.github.io/portfolio/"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/punotes.gif"></a>
+<a href="https://pusolutions.epizy.com/"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/punotes.gif"></a>
 </p>
 
 - **Overview**: This is a complete website built with WordPress where we can upload notes, PDFs, blogs, questions, and many more. I built this to learn working with WordPress and help other students to access notes, pdf and tools that can be used in their studies. 
@@ -71,7 +92,7 @@ redirect_from:
 
 ## Legal path
 <p align="left">
-<a href="https://thesuman74.github.io/portfolio/"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/legalpath.gif"></a>
+<a href="https://github.com/thesuman74/Legal-path-"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/legalpath.gif"></a>
 </p>
 
 - **Overview**: This is a fully customizable website with a theme for a judicial website and has a proper admin panel. It was built Utilizing HTML, CSS, JavaScript, PHP, Bootstrap, and MySQL for the database.
@@ -89,7 +110,7 @@ redirect_from:
 
 ## Question Bank
 <p >
-<a href="https://thesuman74.github.io/portfolio/"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/questionbank.gif"></a>
+<a href="https://github.com/thesuman74/Question_bank"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/questionbank.gif"></a>
 </p>
 
 
