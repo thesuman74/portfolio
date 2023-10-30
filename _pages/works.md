@@ -76,6 +76,7 @@ redirect_from:
 
 - **Overview**: This is a fully customizable website with a theme for a judicial website and has a proper admin panel. It was built Utilizing HTML, CSS, JavaScript, PHP, Bootstrap, and MySQL for the database.
 - **Admin Panel: 🙎‍♂️**  Admin can Create, Edit, Update, and Delete different Users, Images, Headings and many more.
+- **Take a Look:** Check this , [here](https://github.com/thesuman74/Legal-path-) . 
 - **What I learned:**
   - HTML, CSS, Javascript, PHP, Mysql, Github
   - Managing sessions
