@@ -12,11 +12,11 @@ main:
   - title: "My Works"
     url: /my_works/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     # url: /files/Suman_CV.pdf
 
   # - title: "Works"
