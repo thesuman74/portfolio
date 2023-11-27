@@ -26,29 +26,35 @@ I am a passionate and dedicated software engineering student in my final year of
 - Analyzed user reviews to determine sentiment polarity.
 - Achieved an accuracy rate of 85% on a real-world dataset.
 
-### Image Classification with Convolutional Neural Networks (CNN)
-- Implemented a CNN-based image classifier using TensorFlow and Keras.
-- Trained the model to classify various objects with 90% accuracy.
-- Deployed the classifier as a web application for real-time image recognition.
+### Text Extraction 
+- Developed an NLP-based software for extracting structured data from unstructured text documents, including PDFs and images.
+- Utilized Python, NLP techniques, and Optical Character Recognition (OCR) to achieve an accuracy rate of 95%.
 
-### Recommender System with Collaborative Filtering
-- Designed a recommender system using collaborative filtering algorithms.
-- Collaborated with a team to create personalized movie recommendations.
-- Increased user engagement and satisfaction on an online streaming platform.
+### Face Detection Project:
+- Implemented a deep learning-powered face detection system for images and videos, ensuring accurate identification to give precise names by comparing person photo.
+- Employed Python, and OpenCV, to achieve a remarkable 98% accuracy rate.
 
-## Certifications
-- **Machine Learning Specialization** (Coursera)
-  - *Issued by: Stanford University*
-  - Completed a series of courses covering machine learning fundamentals, supervised and unsupervised learning, and deep learning.
+### Other Project: 
+- **Python file organizer :** Organizes different files acc to their format in Corresponding folders
+- **QR code Generator :** Generate a QR code with given text using QR code library
+- **Rock paper scissor :** Simple rock paper scissor game using nested if else
+- **Password generator :** Unique Password generator using random method
 
-- **Deep Learning Specialization** (Coursera)
-  - *Issued by: deeplearning.ai*
-  - Gained expertise in deep neural networks, convolutional networks, sequence models, and natural language processing.
+## CERTIFICATIONS & COURSES
+- Career Essentials in Generative AI by Microsoft and LinkedIn
+- Diploma in computer Application
 
-- **Python for Data Science and Machine Learning Bootcamp** (Udemy)
-  - *Issued by: Udemy*
-  - Mastered Python programming and its applications in data science and machine learning.
+## Technical Skills 
+- **Programming Languages:** Python, C++, C
+- **Web Development :** HTML, CSS, JavaScript, Bootstrap
+- **Tools :** Git, Visual Studio Code, Jupyter Notebook,
+- **Databases and Os :** MySQL, Windows
+- **Basic Knowledge of ML libraries & Algorithms :** Pandas, NumPy ,Matplotlib, TensorFlow,
+linear regression, k nearest neighbors , CNN , Computer Vision,
 
+## Other 
+- **Hobbies and interest :** Exploring new technologies , book summaries , Exercise, Movies and Anime
+- **Languages :** English(fluent) , Hindi(fluent) , Nepali(native)
 ## Contact
 Feel free to connect with contacts above . I am open to collaboration and always eager to learn and contribute to exciting machine learning projects.
 
