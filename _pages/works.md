@@ -32,20 +32,43 @@ redirect_from:
 
 
 
-# NAive Bias algorithms 
+# Python Programming Fundamentals 
 <p align="right">
-<a href="https://thesuman74.github.io/portfolio/"><img align="left" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/coder.png"></a>
+<a href="https://github.com/thesuman74/Python_Fundamentals"><img align="left" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/fundamentals.png"></a>
 </p>
-## I'm a Software Engineering Student .
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers .
-- 🥅 2024 Goals: Learn more about AI and ML.
-- ⚡ Fun fact: I am addicted to coding and songs .
-- 💬 Ask me about coding and movies stuffs .
-- 📫 Not much active in social medias .
+## Covering Different Python Fundamentals
 
-- ⚡ Fun fact **I am addicted to coding and songs .**
+- **Variables:** Declare variables for data storage, dynamically typed language.
+- **Control Flow:** Use if statements for conditions, loops (for, while) for repetition.
+- **Functions:** Define and call functions with parameters, return values.
+- **Data Structures:** Utilize lists, tuples, dictionaries for data storage, perform basic operations.
+- **Input/Output:** Read input with input, display output with print.
+
+
+# Python Beginner Friendly Projects 
+<p align="right">
+<a href="https://github.com/thesuman74/Python_Fundamentals/tree/main/python_beginner_projects"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/begineer.png"></a>
+</p>
+
+## Checkout this Beginner friendly and useful projects 
+
+1. **Password Generator:**
+   - Description: Generate strong and random passwords based on user specifications.
+   - File: `password_generator.py`
+
+2. **File Organizer:**
+   - Description: Organize files in a directory based on their file extensions.
+   - File: `file_organizer.py`
+
+3. **Rock, Paper, Scissors Game:**
+   - Description: Play the classic Rock, Paper, Scissors game against the computer.
+   - File: `rock_paper_scissors.py`
+
+4. **Number Guessing Game:**
+   - Description: Guess the correct number within a specified range.
+   - File: `number_guessing_game.py`
+
 
 
 # App Development
