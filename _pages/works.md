@@ -14,20 +14,19 @@ redirect_from:
 </div>
 
 ---
-
+<!--
 <div style="display: flex; justify-content: space-between;">
         <a href="https://github.com/thesuman74/AI_with_python">
-        <img src="![git_thumbail](https://github.com/thesuman74/portfolio/assets/58351346/36739276-bec7-4ed9-8078-dd88421573ce)
-" alt="Image 1" width="300" height="100%">
+        <img src="https://thesuman74.github.io/portfolio/images/git_thumbail.jpg" alt="Image 1" width="300" height="100%">
     </a>
   <a href="https://github.com/thesuman74/AI_with_python">
-        <img src="![docker](https://github.com/thesuman74/portfolio/assets/58351346/133ae3f6-263f-4aa3-943e-cfad9a2a7d16)
-" alt="Image 1" width="300" height="100%">
+        <img src="https://thesuman74.github.io/portfolio/images/docker.png" alt="Image 1" width="300" height="100%">
     </a>
-<!--      <a href="https://github.com/thesuman74/AI_with_python">
+      <a href="https://github.com/thesuman74/AI_with_python">
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image 1" width="300" height="100%">
-    </a> -->
+    </a> 
 </div>
+-->
 
 
 <!-- # Explore My Project Portfolio.  -->
