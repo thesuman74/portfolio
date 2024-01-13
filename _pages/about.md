@@ -21,7 +21,7 @@ I am a passionate and dedicated software engineering student in my final year of
 
 ## 💻Projects
 
-### Sentiment Analysis with Natural Language Processing (NLP)
+### [Sentiment Analysis with Natural Language Processing (NLP)](https://github.com/thesuman74/AI_with_python/tree/master/sentiment_Analysis_of_Amazon)
 - Developed a sentiment analysis model using NLP techniques.
 - Analyzed user reviews to determine sentiment polarity.
 - Achieved an accuracy rate of 85% on a real-world dataset.
