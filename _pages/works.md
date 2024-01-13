@@ -8,17 +8,32 @@ redirect_from:
 ---
 
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/thesuman74/AI_with_python">
-<!--         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image 1" width="400" height="100%"> -->
-    </a>
     <a href="https://thesuman74.github.io/portfolio/">
         <img src="https://thesuman74.github.io/portfolio/images/programmer.gif" alt="Image 2" width="800" height="100%">
     </a>
 </div>
 
+---
+
+<div style="display: flex; justify-content: space-between;">
+        <a href="https://github.com/thesuman74/AI_with_python">
+        <img src="![git_thumbail](https://github.com/thesuman74/portfolio/assets/58351346/36739276-bec7-4ed9-8078-dd88421573ce)
+" alt="Image 1" width="300" height="100%">
+    </a>
+  <a href="https://github.com/thesuman74/AI_with_python">
+        <img src="![docker](https://github.com/thesuman74/portfolio/assets/58351346/133ae3f6-263f-4aa3-943e-cfad9a2a7d16)
+" alt="Image 1" width="300" height="100%">
+    </a>
+<!--      <a href="https://github.com/thesuman74/AI_with_python">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image 1" width="300" height="100%">
+    </a> -->
+</div>
+
+
 <!-- # Explore My Project Portfolio.  -->
 
 # Linear Regression 
+
 <p align="left">
 <a href="https://github.com/thesuman74/AI_with_python/tree/master/linear_regression"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/linear_regression.gif"></a>
 </p>
@@ -45,9 +60,10 @@ redirect_from:
 - **Data Structures:** Utilize lists, tuples, dictionaries for data storage, perform basic operations.
 - **Input/Output:** Read input with input, display output with print.
 
+<br>
 
 # Python Beginner Friendly Projects 
-<p align="right">
+<p align="left">
 <a href="https://github.com/thesuman74/Python_Fundamentals/tree/main/python_beginner_projects"><img align="right" alt="coding" width="400" src="https://thesuman74.github.io/portfolio/images/begineer.png"></a>
 </p>
 
