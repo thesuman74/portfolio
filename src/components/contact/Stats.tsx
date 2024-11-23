@@ -1,6 +1,5 @@
 "use client";
 
-import { getGithubProfile } from "@/data/github/github";
 import React from "react";
 import CountUp from "react-countup";
 

@@ -1,3 +1,4 @@
+"use client";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { useEffect, useMemo, useState } from "react";
 import { loadSlim } from "@tsparticles/slim";
@@ -23,17 +24,20 @@ const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
 
   const particlesLoaded = async (
     container: Container | undefined
-  ): Promise<void> => {
-    console.log(container);
+  ): Promise<void> => {};
+
+  // Function to get the correct value for the current theme (only on the client side)
+  const getCSSVariable = (varName: string): string => {
+    if (typeof window !== "undefined") {
+      return getComputedStyle(document.documentElement)
+        .getPropertyValue(varName)
+        .trim();
+    }
+    return ""; // Return a fallback value if not running on the client
   };
 
   const options: RecursivePartial<IOptions> = useMemo(
     () => ({
-      //   background: {
-      //     color: {
-      //       value: "#1E2F97",
-      //     },
-      //   },
       fpsLimit: 120,
       interactivity: {
         events: {
@@ -58,10 +62,10 @@ const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
       },
       particles: {
         color: {
-          value: "#FFFFFF",
+          value: getCSSVariable("--particles-color"),
         },
         links: {
-          color: "#FFFFFF",
+          color: getCSSVariable("--particles-link-color"),
           distance: 150,
           enable: true,
           opacity: 0.3,

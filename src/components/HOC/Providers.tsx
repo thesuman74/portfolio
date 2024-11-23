@@ -2,7 +2,6 @@
 
 import React, { ReactNode } from "react";
 import { ThemeProvider } from "./theme-provider";
-import ProgressProviders from "./ProgressProvider";
 import ToastProvider from "./ToastProvider";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 

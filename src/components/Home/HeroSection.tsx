@@ -1,10 +1,7 @@
 import Social from "@/components/contact/Social";
-import Stats from "@/components/contact/Stats";
 import Photo from "@/components/Photo";
-import SkillsList from "@/components/SkillsList";
 import { Button } from "@/components/ui/button";
-import { h1 } from "framer-motion/client";
-import Image from "next/image";
+
 import { FiDownload } from "react-icons/fi";
 
 const HeroSection = () => {

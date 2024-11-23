@@ -1,6 +1,5 @@
 "use client";
 import { motion } from "framer-motion";
-import Image from "next/image";
 import React from "react";
 import ParticlesComponent from "./ParticlesContainer";
 import CustomImage from "./CustomImage";
@@ -31,7 +30,7 @@ const Photo = () => {
         }}
         style={{ position: "relative", zIndex: 20 }} // Ensure this is higher than the particles
       >
-        <div className="absolute w-[298px] h-[298px] xl:w-[440px] xl:h-[440px] mix-blend-lighten">
+        <div className="absolute w-[298px] h-[298px] xl:w-[440px] xl:h-[440px] mix-blend-darken">
           <CustomImage
             src="/assets/profile.png"
             priority

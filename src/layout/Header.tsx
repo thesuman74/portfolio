@@ -8,12 +8,12 @@ import MobileNav from "./MobileNav";
 
 const Header = () => {
   return (
-    <header className="pt-3 text-white bg-background">
+    <header className="pt-3 text-black dark:text-white bg-background">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-2">
           {/* Logo and Theme Indicator */}
           <Link href="/">
-            <p className="text-4xl font-semibold cursor-pointer">Suman</p>
+            <p className="text-4xl font-semibold cursor-pointer ">Suman</p>
           </Link>
           <div className="flex space-x-2">
             <span
