@@ -3,7 +3,7 @@ import React from "react";
 import { Timeline } from "@/components/ui/timeline";
 import { useRouter } from "next/navigation";
 
-export function ProCodrrDemo() {
+export function TimelineSection() {
   const router = useRouter();
 
   const data = [

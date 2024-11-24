@@ -4,7 +4,7 @@ import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 
 const SkillsList = () => {
   return (
-    <div className="flex flex-col gap-[30px] my-40">
+    <div className="flex flex-col gap-[30px] ">
       <div className="flex flex-col gap-[30px] text-center xl:text-left">
         <h3 className="text-4xl font-bold text-center text-black dark:text-white">
           {skills[0].title}
