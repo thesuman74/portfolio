@@ -8,7 +8,7 @@ const Photo = () => {
   return (
     <div className="w-full h-full relative overflow-hidden">
       {/* Particles Component with lower z-index */}
-      <div
+      {/* <div
         style={{
           position: "absolute",
           top: 0,
@@ -19,7 +19,7 @@ const Photo = () => {
         }}
       >
         <ParticlesComponent id={"tsparticles"} />
-      </div>
+      </div> */}
 
       {/* Image Component with higher z-index */}
       <motion.div
@@ -53,7 +53,7 @@ const Photo = () => {
           cx="253"
           cy="253"
           r="250"
-          stroke="#00ff99"
+          stroke="var(--accent)" // Use the CSS variable for stroke color
           strokeWidth="4"
           strokeLinejoin="round"
           initial={{ opacity: 0, strokeDasharray: "24 15 0 0" }}

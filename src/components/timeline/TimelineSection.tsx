@@ -11,12 +11,12 @@ export function TimelineSection() {
       title: "ProCodrr Mastery Courses",
       content: (
         <div className="text-center">
-          <p className="text-neutral-800 dark:text-neutral-200 text-sm md:text-base font-medium mb-6">
+          <p className="text-textColor text-sm md:text-base font-medium mb-6">
             Deeply understand advanced concepts, practice with real-world
             exercises, and build expertise to boost your career.
           </p>
           <div className="grid grid-cols-3 gap-4">
-            <div className="bg-neutral-100 dark:bg-neutral-800 p-4 rounded-lg shadow-lg">
+            <div className="bg-secondary p-4 rounded-lg shadow-lg">
               <h3 className="text-lg font-bold mb-2">JavaScript Course</h3>
               <ul className="text-sm text-neutral-700 dark:text-neutral-300 mb-4">
                 <li>✔️ Core fundamentals</li>
@@ -57,7 +57,7 @@ export function TimelineSection() {
       title: "Tech Stack and Features",
       content: (
         <div className="text-center">
-          <p className="text-neutral-800 dark:text-neutral-200 text-sm md:text-base font-medium mb-4">
+          <p className="text-textColor text-sm md:text-base font-medium mb-4">
             Explore tools and frameworks used in ProCodrr courses.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
@@ -86,7 +86,7 @@ export function TimelineSection() {
       title: "Course Benefits",
       content: (
         <div>
-          <p className="text-neutral-800 dark:text-neutral-200 text-sm md:text-base font-medium mb-4">
+          <p className="text-textColor text-sm md:text-base font-medium mb-4">
             Unlock your coding potential with ProCodrr!
           </p>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
@@ -118,7 +118,7 @@ export function TimelineSection() {
       title: "View More",
       content: (
         <div className="text-center">
-          <p className="text-neutral-800 dark:text-neutral-200 text-sm md:text-base font-medium mb-6">
+          <p className="text-textColor text-sm md:text-base font-medium mb-6">
             Ready to explore more courses and features? Click below to dive
             deeper.
           </p>

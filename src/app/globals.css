@@ -7,6 +7,7 @@ body {
 }
 
 @layer base {
+  /* Base Light Mode Variables */
   :root {
     --background: #eeeeee;
     --foreground: 240 10% 3.9%;
@@ -42,11 +43,17 @@ body {
     --particles-color: #eeeeee;
     --particles-link-color: #00ff99;
 
-    --font-jetbrainsMono: 'JetBrains Mono', monospace; /* Define the font-family variable */
+    --font-jetbrainsMono: "JetBrains Mono", monospace;
 
+    --orange: #ffa500; /* Orange Color */
+    --purple: #800080; /* Purple Color */
+    --red: #ff0000; /* Red Color */
+    --textColor: #000;
   }
+
+  /* Dark Mode Variables */
   .dark {
-    --background: #14171c ;
+    --background: #14171c;
     --foreground: 0 0% 98%;
     --card: 240 10% 3.9%;
     --card-foreground: 0 0% 98%;
@@ -74,44 +81,105 @@ body {
     --accent: #00ff99;
     --accent-hover: #00e187;
 
-    --font-jetbrainsMono: 'JetBrains Mono', monospace;
+    --font-jetbrainsMono: "JetBrains Mono", monospace;
 
-     --particles-color: #ffffff;
+    --particles-color: #ffffff;
     --particles-link-color: #00ff99;
 
+    /* New Color Themes for Dark Mode */
+    --orange: #ff7f00; /* Darker Orange */
+    --purple: #9b30ff; /* Darker Purple */
+    --red: #cc0000; /* Darker Red */
+    --textColor: #fff;
+  }
 
+  .orange {
+    --background: #14171c;
+    --accent: #ff8c00; /* Darker orange for accent */
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: 0 0% 98%;
+  }
+  .orange.light {
+    --background: #efeff0;
+    --accent: #ff8c00; /* Darker orange for accent */
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: #000;
+  }
+  .red {
+    --background: #14171c;
+    --accent: #ff0000; /* Bright red for accent */
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: 0 0% 98%;
+  }
+  .red.light {
+    --background: #efeff0;
+    --accent: #ff0000; /* Bright red for accent */
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: #000;
+  }
+  .violet {
+    --background: #14171c;
+    --accent: #a806a8; /* Purple/violet for accent */
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: 0 0% 98%;
+  }
+  .violet.light {
+    --background: #efeff0;
+    --accent: #a806a8; /* Bright red for accent */
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: #000;
+  }
+
+  .green {
+    --background: #14171c;
+    --accent: #00ff99;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: 0 0% 98%;
+  }
+  .green.light {
+    --background: #efeff0;
+    --accent: #00ff99;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --textColor: #000;
   }
 }
+
 @layer base {
-    
-  body{
+  body {
     @apply font-primary bg-background text-white leading-loose;
   }
-  .h1{
-    @apply text-[48px] xl:text-[60px] leading-[1.1] font-semibold
+  .h1 {
+    @apply text-[48px] xl:text-[60px] leading-[1.1] font-semibold;
   }
-  .h2{
-    @apply text-[36px] xl:text-[38px] leading-[1.1] font-semibold
+  .h2 {
+    @apply text-[36px] xl:text-[38px] leading-[1.1] font-semibold;
   }
-  .h3{
-    @apply text-[20px] xl:text-[24px] leading-[1.1] font-semibold
+  .h3 {
+    @apply text-[20px] xl:text-[24px] leading-[1.1] font-semibold;
   }
-  
+
   .text-outline {
     -webkit-text-stroke: 1px #ffffff;
   }
 
-  .text-outline-hover{
+  .text-outline-hover {
     -webkit-text-stroke: 1px #00ff99;
-
   }
-  
 }
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   /* overflow: hidden; */
   scrollbar-width: thin;
   scroll-behavior: smooth;
-scrollbar-color: #25ca7a #1a1a1a;
+  scrollbar-color: var(--accent) #1a1a1a;
 }

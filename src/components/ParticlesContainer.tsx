@@ -13,7 +13,10 @@ interface ParticlesProps {
 
 const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
   const [init, setInit] = useState<boolean>(false);
+  const [particlesColor, setParticlesColor] = useState<string>("");
+  const [particlesLinkColor, setParticlesLinkColor] = useState<string>("");
 
+  // Initialize particles engine
   useEffect(() => {
     initParticlesEngine(async (engine: Engine) => {
       await loadSlim(engine);
@@ -21,10 +24,6 @@ const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
       setInit(true); // Update state to indicate initialization is complete
     });
   }, []);
-
-  const particlesLoaded = async (
-    container: Container | undefined
-  ): Promise<void> => {};
 
   // Function to get the correct value for the current theme (only on the client side)
   const getCSSVariable = (varName: string): string => {
@@ -35,6 +34,14 @@ const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
     }
     return ""; // Return a fallback value if not running on the client
   };
+
+  // Set the CSS variables once the component has mounted
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      setParticlesColor(getCSSVariable("--particles-color"));
+      setParticlesLinkColor(getCSSVariable("--accent"));
+    }
+  }, []);
 
   const options: RecursivePartial<IOptions> = useMemo(
     () => ({
@@ -62,10 +69,10 @@ const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
       },
       particles: {
         color: {
-          value: getCSSVariable("--particles-color"),
+          value: particlesColor || "#ffffff", // Default to white if the variable is not loaded yet
         },
         links: {
-          color: getCSSVariable("--particles-link-color"),
+          color: particlesLinkColor || "#ffffff", // Default to white if the variable is not loaded yet
           distance: 150,
           enable: true,
           opacity: 0.3,
@@ -100,7 +107,7 @@ const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
       },
       detectRetina: true,
     }),
-    []
+    [particlesColor, particlesLinkColor] // Recalculate options when CSS variables change
   );
 
   return (
@@ -114,7 +121,7 @@ const ParticlesComponent: React.FC<ParticlesProps> = ({ id }) => {
         zIndex: 10,
       }}
     >
-      <Particles id={id} options={options} particlesLoaded={particlesLoaded} />
+      <Particles id={id} options={options} />
     </div>
   );
 };
