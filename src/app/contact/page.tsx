@@ -53,7 +53,7 @@ const Contact = () => {
               action=""
               className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl"
             >
-              <h2 className="text-4xl font-bold text-green-500">
+              <h2 className="text-4xl font-bold text-accent">
                 Let's work together
               </h2>
               <p className="text-white/70">
@@ -98,7 +98,7 @@ const Contact = () => {
               </div>
               <Button
                 type="submit"
-                className="bg-green-500 text-black hover:bg-green-600 w-full md:w-auto"
+                className="bg-accent text-black hover:bg-green-600 w-full md:w-auto"
               >
                 Send message
               </Button>
@@ -109,7 +109,7 @@ const Contact = () => {
           <div className="flex flex-1 flex-col gap-6 mt-10 ">
             {info.map((item, index) => (
               <div key={index} className="flex items-center mb-6 last:mb-0">
-                <div className="text-green-500 text-3xl mr-4 bg-[#27272c] p-7 hover:animate-pulse">
+                <div className="text-accent text-3xl mr-4 bg-[#27272c] p-7 hover:animate-pulse">
                   {item.icon}
                 </div>
                 <div>

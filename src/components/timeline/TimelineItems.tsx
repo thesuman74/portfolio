@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 type TimelineItemProps = {
@@ -28,7 +29,7 @@ export const TimelineItem = ({ data }: { data: TimelineItemProps }) => {
       {data.images && data.images.length > 0 && (
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
           {data.images.map((image, index) => (
-            <img
+            <Image
               key={index}
               src={image}
               alt={`coding project ${index + 1}`}

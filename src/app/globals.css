@@ -9,7 +9,7 @@ body {
 @layer base {
   /* Base Light Mode Variables */
   :root {
-    --background: #eeeeee;
+    --background: #d5f5f8;
     --foreground: 240 10% 3.9%;
     --card: 0 0% 100%;
     --card-foreground: 240 10% 3.9%;
@@ -101,7 +101,7 @@ body {
     --textColor: 0 0% 98%;
   }
   .orange.light {
-    --background: #efeff0;
+    --background: #d5f5f8;
     --accent: #ff8c00; /* Darker orange for accent */
     --primary: 0 0% 98%;
     --primary-foreground: 240 5.9% 10%;
@@ -115,7 +115,7 @@ body {
     --textColor: 0 0% 98%;
   }
   .red.light {
-    --background: #efeff0;
+    --background: #d5f5f8;
     --accent: #ff0000; /* Bright red for accent */
     --primary: 0 0% 98%;
     --primary-foreground: 240 5.9% 10%;
@@ -129,7 +129,7 @@ body {
     --textColor: 0 0% 98%;
   }
   .violet.light {
-    --background: #efeff0;
+    --background: #d5f5f8;
     --accent: #a806a8; /* Bright red for accent */
     --primary: 0 0% 98%;
     --primary-foreground: 240 5.9% 10%;
@@ -144,7 +144,7 @@ body {
     --textColor: 0 0% 98%;
   }
   .green.light {
-    --background: #efeff0;
+    --background: #d5f5f8;
     --accent: #00ff99;
     --primary: 0 0% 98%;
     --primary-foreground: 240 5.9% 10%;

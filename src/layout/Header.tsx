@@ -10,7 +10,7 @@ import ParticlesComponent from "@/components/ParticlesContainer";
 
 const Header = () => {
   // State for controlling the visibility of particles
-  const [particlesVisible, setParticlesVisible] = useState(true);
+  const [particlesVisible, setParticlesVisible] = useState(false);
 
   // Function to change the theme color
   const handleThemeChange = (color: string) => {

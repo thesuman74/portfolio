@@ -2,6 +2,7 @@
 import React from "react";
 import { Timeline } from "@/components/ui/timeline";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
 
 export function TimelineSection() {
   const router = useRouter();
@@ -90,22 +91,22 @@ export function TimelineSection() {
             Unlock your coding potential with ProCodrr!
           </p>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-            <img
+            <Image
               src="https://assets.aceternity.com/templates/startup-1.webp"
               alt="coding project 1"
               className="rounded-lg object-cover shadow-lg w-full"
             />
-            <img
+            <Image
               src="https://assets.aceternity.com/templates/startup-2.webp"
               alt="coding project 2"
               className="rounded-lg object-cover shadow-lg w-full"
             />
-            <img
+            <Image
               src="https://assets.aceternity.com/templates/startup-3.webp"
               alt="coding project 3"
               className="rounded-lg object-cover shadow-lg w-full"
             />
-            <img
+            <Image
               src="https://assets.aceternity.com/templates/startup-4.webp"
               alt="coding project 4"
               className="rounded-lg object-cover shadow-lg w-full"
